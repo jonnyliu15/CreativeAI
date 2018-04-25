@@ -1,2 +1,2 @@
-# GoogleFinance
-A basic Excel VBA macro that creates a pivot table based on data drawn from Google Finance API.
+# CreativeAI
+Generates "lyrics" and accompanying background "music" given an input of existing artists' lyrics and Nintendo GameCube sound effects.
